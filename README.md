@@ -4,6 +4,6 @@ This notebook shows how to make the color-magnitude diagrams from [Kiman et al. 
 
 Below are the three CMD the code produces:
 
-![CMD_spt](link-to-image)
-![CMD_halpha](link-to-image)
-![CMD_vtan](link-to-image)
+![CMD_spt](https://github.com/rkiman/m-dwarfs-gaia-cmd/blob/master/CMD_spt.png)
+![CMD_halpha](https://github.com/rkiman/m-dwarfs-gaia-cmd/blob/master/CMD_halpha.png)
+![CMD_vtan](https://github.com/rkiman/m-dwarfs-gaia-cmd/blob/master/CMD_vtan.png)
